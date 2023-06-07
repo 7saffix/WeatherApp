@@ -1,5 +1,7 @@
 # WeatherApp
 
+A weather app that utilizes the OpenWeather API can provide real-time weather information .
+
 Live Demo :  https://7saffix.github.io/WeatherApp/
 
 
