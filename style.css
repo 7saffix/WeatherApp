@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.main{
+    width:250px;
+    height: 300px;
+    background-color: #f3e562;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.row{
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+.row input{
+    text-align: center;
+}
+#search{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 7px;
+    margin: 5px;
+}
+.row img{
+    width: 80px;
+}
